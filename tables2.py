@@ -1,5 +1,3 @@
-import time
-
 print('Which number table are you learning?')
 
 # Take the number input and convert to integer
